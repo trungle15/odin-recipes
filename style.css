@@ -1,4 +1,21 @@
+* {
+  font-family: monospace;
+  font-size: large;
+}
+
 img {
-    width: 400px;
-    height: auto;
-  }
+  width: 400px;
+  height: auto;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(247, 193, 193);
+  text-shadow: rgb(122, 122, 122) 4px 3px 0px;
+  font-size: xx-large;
+}
+
+h2 {
+  text-shadow: -5px 5px 0px #00e6e6, 2px 2px 2px rgba(206, 89, 55, 0);
+  font-size: x-large;
+}
